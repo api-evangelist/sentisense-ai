@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sentisense-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sentisense.ai/
+Sentisense AI is an emerging technology company focused on providing advanced AI-driven analytics solutions for businesses. Leveraging cutting‑edge machine learning models, the platform offers real‑time insights, predictive forecasting, and automated decision support across various industries such as finance, healthcare, and retail. The company emphasizes data privacy, scalability, and seamless integration with existing enterprise systems, aiming to empower organizations to harness the full potential of their data assets.
+
+**Areas:** Company · AI · Analytics · Machine-Learning · Enterprise
+
+## sentisense-ai on APIs.io
+
+Everything profiled for sentisense-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sentisense-ai/](https://apis.io/providers/sentisense-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [SentiSense API](https://apis.io/apis/sentisense-ai/sentisense-api/) — API providing stock prices, news sentiment, institutional flows, and AI-powered market analysis.
+- [sentisense-ai API](https://apis.io/apis/sentisense-ai/sentisense-ai-api/) — sentisense-ai API as documented publicly: 66 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiV1EtfsTickerHoldingsResponse](https://apis.io/schemas/sentisense-ai/sentisense-ai-get-api-v1-etfs-ticker-holdings-response/)
+- [GetApiV1EtfsTickerQuoteResponse](https://apis.io/schemas/sentisense-ai/sentisense-ai-get-api-v1-etfs-ticker-quote-response/)
+- [GetApiV1StocksTickerQuoteResponse](https://apis.io/schemas/sentisense-ai/sentisense-ai-get-api-v1-stocks-ticker-quote-response/)
+- [GetDetailedResponse](https://apis.io/schemas/sentisense-ai/sentisense-ai-get-detailed-response/)
+- [GetPriceResponse](https://apis.io/schemas/sentisense-ai/sentisense-ai-get-price-response/)
+- [GetTickerAiSummaryResponse](https://apis.io/schemas/sentisense-ai/sentisense-ai-get-ticker-ai-summary-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Sentisense Ai Context](https://apis.io/jsonld/sentisense-ai/sentisense-ai-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [sentisense-ai API Rules](https://apis.io/rules/sentisense-ai/sentisense-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sentisense Ai Authentication](https://apis.io/security/sentisense-ai/sentisense-ai-authentication/)
+- [Sentisense Ai Domain Security](https://apis.io/security/sentisense-ai/sentisense-ai-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Sentisense Ai Plans Pricing](https://apis.io/plans/sentisense-ai/sentisense-ai-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sentisense.ai/)
+- [Documentation](https://sentisense.ai/docs/api)
+- [Pricing](https://app.sentisense.ai/pricing)
+- [Support](https://app.sentisense.ai/help)
+- [Changelog](https://sentisense.ai/changelog/)
+- [Blog](https://sentisense.ai/blog/)
+- [Terms of service](https://sentisense.ai/agreement/Terms-of-Service.pdf)
+- [Privacy policy](https://sentisense.ai/agreement/Privacy-Policy.pdf)
+
+## API Evangelist rating
+
+**Kin Score 50.6** — developing · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 45.6 |
+| Contract governance | 70.9 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 63.7 |
+
+**Agent readiness 38.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sentisense-ai/](https://apis.io/providers/sentisense-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for sentisense-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sentisense-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
